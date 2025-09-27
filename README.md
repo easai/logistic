@@ -21,3 +21,5 @@ This Python script uses logistic regression to predict the probability of rain b
 poetry install
 poetry run py logistic/weather.py
 ```
+
+[ロジスティックス回帰の説明](https://github.com/easai/logistic/blob/main/logistic-regression.ipynb)
