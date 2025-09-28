@@ -21,8 +21,11 @@ This Python script uses logistic regression to predict the probability of rain b
 poetry install
 poetry run py logistic/weather.py
 ```
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="80">
+
+## 🇨🇳 中文说明
+这是中国版本的文档。
 [逻辑回归](https://github.com/easai/logistic/blob/main/logistic-regression-zh.ipynb)
 
-<img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="80">
+## 🇯🇵 日本語の説明
+これは日本語版のドキュメントです。
 [ロジスティックス回帰の説明](https://github.com/easai/logistic/blob/main/logistic-regression.ipynb)
